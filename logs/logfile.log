@@ -1,0 +1,51 @@
+INFO  | 2022-12-31 09:50:44 | [main] ProductManipulation (ProductManipulation.java:37) - User *houda@esi.dz* with id /1/, did a reading operation
+INFO  | 2022-12-31 09:51:54 | [main] ProductManipulation (ProductManipulation.java:88) - User *houda@esi.dz* with id /1/, did a writing operation
+INFO  | 2022-12-31 09:52:02 | [main] ProductManipulation (ProductManipulation.java:37) - User *houda@esi.dz* with id /1/, did a reading operation
+INFO  | 2022-12-31 09:52:15 | [main] ProductManipulation (ProductManipulation.java:102) - User *houda@esi.dz* with id /1/, did a writing operation
+INFO  | 2022-12-31 09:52:22 | [main] ProductManipulation (ProductManipulation.java:37) - User *houda@esi.dz* with id /1/, did a reading operation
+INFO  | 2022-12-31 09:53:08 | [main] ProductManipulation (ProductManipulation.java:135) - User *houda@esi.dz* with id /1/, did a reading operation
+INFO  | 2022-12-31 09:53:08 | [main] ProductManipulation (ProductManipulation.java:136) - User *houda@esi.dz* with id /1/, did a reading operation
+INFO  | 2022-12-31 10:35:28 | [main] ProductManipulation (ProductManipulation.java:37) - User *sliman@esi.dz* with id /2/, did a reading operation
+INFO  | 2022-12-31 10:40:51 | [main] ProductManipulation (ProductManipulation.java:88) - User *sliman@esi.dz* with id /2/, did a writing operation
+INFO  | 2022-12-31 10:41:24 | [main] ProductManipulation (ProductManipulation.java:135) - User *sliman@esi.dz* with id /2/, did a reading operation
+INFO  | 2022-12-31 10:41:24 | [main] ProductManipulation (ProductManipulation.java:136) - User *sliman@esi.dz* with id /2/, did a reading operation
+INFO  | 2022-12-31 19:40:47 | [main] ProductManipulation (ProductManipulation.java:93) - User *houda@esi.dz* with id /1/, did a writing operation
+INFO  | 2022-12-31 19:41:04 | [main] ProductManipulation (ProductManipulation.java:52) - User *houda@esi.dz* with id /1/, did a reading operation
+INFO  | 2022-12-31 19:41:04 | [main] ProductManipulation (ProductManipulation.java:54) - User *houda@esi.dz* with id /1/, searched expensive product with id 123
+INFO  | 2023-01-02 13:42:00 | [main] ProductManipulation (ProductManipulation.java:39) - User *rayan@esi.dz* with id /2/, did a reading operation
+INFO  | 2023-01-02 13:43:21 | [main] ProductManipulation (ProductManipulation.java:93) - User *rayan@esi.dz* with id /2/, did a writing operation
+INFO  | 2023-01-02 13:43:41 | [main] ProductManipulation (ProductManipulation.java:52) - User *rayan@esi.dz* with id /2/, did a reading operation
+INFO  | 2023-01-02 13:43:41 | [main] ProductManipulation (ProductManipulation.java:54) - User *rayan@esi.dz* with id /2/, searched expensive product with id 435
+INFO  | 2023-01-02 13:44:41 | [main] ProductManipulation (ProductManipulation.java:140) - User *rayan@esi.dz* with id /2/, did a reading operation
+INFO  | 2023-01-02 13:44:41 | [main] ProductManipulation (ProductManipulation.java:141) - User *rayan@esi.dz* with id /2/, did a reading operation
+INFO  | 2023-01-02 13:45:56 | [main] ProductManipulation (ProductManipulation.java:39) - User *user3@esi.dz* with id /4/, did a reading operation
+INFO  | 2023-01-02 13:46:03 | [main] ProductManipulation (ProductManipulation.java:52) - User *user3@esi.dz* with id /4/, did a reading operation
+INFO  | 2023-01-02 13:46:22 | [main] ProductManipulation (ProductManipulation.java:107) - User *user3@esi.dz* with id /4/, did a writing operation
+INFO  | 2023-01-02 13:50:44 | [main] ProductManipulation (ProductManipulation.java:39) - User *user4@esi.dz* with id /5/, did a reading operation
+INFO  | 2023-01-02 13:51:02 | [main] ProductManipulation (ProductManipulation.java:52) - User *user4@esi.dz* with id /5/, did a reading operation
+INFO  | 2023-01-02 13:51:02 | [main] ProductManipulation (ProductManipulation.java:54) - User *user4@esi.dz* with id /5/, searched expensive product with id 435
+INFO  | 2023-01-02 13:52:24 | [main] ProductManipulation (ProductManipulation.java:93) - User *user4@esi.dz* with id /5/, did a writing operation
+INFO  | 2023-01-02 13:53:27 | [main] ProductManipulation (ProductManipulation.java:93) - User *user5@esi.dz* with id /6/, did a writing operation
+INFO  | 2023-01-02 13:54:22 | [main] ProductManipulation (ProductManipulation.java:140) - User *user5@esi.dz* with id /6/, did a reading operation
+INFO  | 2023-01-02 13:54:22 | [main] ProductManipulation (ProductManipulation.java:141) - User *user5@esi.dz* with id /6/, did a reading operation
+INFO  | 2023-01-02 13:54:48 | [main] ProductManipulation (ProductManipulation.java:39) - User *user6@esi.dz* with id /7/, did a reading operation
+INFO  | 2023-01-02 13:54:57 | [main] ProductManipulation (ProductManipulation.java:52) - User *user6@esi.dz* with id /7/, did a reading operation
+INFO  | 2023-01-02 13:54:57 | [main] ProductManipulation (ProductManipulation.java:54) - User *user6@esi.dz* with id /7/, searched expensive product with id 99
+INFO  | 2023-01-02 13:56:35 | [main] ProductManipulation (ProductManipulation.java:93) - User *user6@esi.dz* with id /7/, did a writing operation
+INFO  | 2023-01-02 14:00:05 | [main] ProductManipulation (ProductManipulation.java:52) - User *user7@esi.dz* with id /8/, did a reading operation
+INFO  | 2023-01-02 14:00:29 | [main] ProductManipulation (ProductManipulation.java:39) - User *user7@esi.dz* with id /8/, did a reading operation
+INFO  | 2023-01-02 14:00:56 | [main] ProductManipulation (ProductManipulation.java:39) - User *user7@esi.dz* with id /8/, did a reading operation
+INFO  | 2023-01-02 14:01:10 | [main] ProductManipulation (ProductManipulation.java:107) - User *user7@esi.dz* with id /8/, did a writing operation
+INFO  | 2023-01-02 14:01:58 | [main] ProductManipulation (ProductManipulation.java:93) - User *user7@esi.dz* with id /8/, did a writing operation
+INFO  | 2023-01-02 14:03:28 | [main] ProductManipulation (ProductManipulation.java:52) - User *user8@esi.dz* with id /9/, did a reading operation
+INFO  | 2023-01-02 14:03:28 | [main] ProductManipulation (ProductManipulation.java:54) - User *user8@esi.dz* with id /9/, searched expensive product with id 44
+INFO  | 2023-01-02 14:03:34 | [main] ProductManipulation (ProductManipulation.java:39) - User *user8@esi.dz* with id /9/, did a reading operation
+INFO  | 2023-01-02 14:04:39 | [main] ProductManipulation (ProductManipulation.java:93) - User *user9@esi.dz* with id /10/, did a writing operation
+INFO  | 2023-01-02 14:04:45 | [main] ProductManipulation (ProductManipulation.java:39) - User *user9@esi.dz* with id /10/, did a reading operation
+INFO  | 2023-01-02 14:04:51 | [main] ProductManipulation (ProductManipulation.java:52) - User *user9@esi.dz* with id /10/, did a reading operation
+INFO  | 2023-01-02 14:06:09 | [main] ProductManipulation (ProductManipulation.java:107) - User *user9@esi.dz* with id /10/, did a writing operation
+INFO  | 2023-01-02 14:06:51 | [main] ProductManipulation (ProductManipulation.java:140) - User *user9@esi.dz* with id /10/, did a reading operation
+INFO  | 2023-01-02 14:06:51 | [main] ProductManipulation (ProductManipulation.java:141) - User *user9@esi.dz* with id /10/, did a reading operation
+INFO  | 2023-01-02 14:15:48 | [main] ProductManipulation (ProductManipulation.java:39) - User *user8@esi.dz* with id /9/, did a reading operation
+INFO  | 2023-01-02 14:28:45 | [main] ProductManipulation (ProductManipulation.java:39) - User *user4@esi.dz* with id /5/, did a reading operation
+INFO  | 2023-01-02 15:24:18 | [main] ProductManipulation (ProductManipulation.java:39) - User *houda@esi.dz* with id /1/, did a reading operation
